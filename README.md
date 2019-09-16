@@ -28,4 +28,5 @@ The equations for an open SIR model are:
 
 ![SIR](images/siropen.PNG)
 
-There is basic code for SIR models that can be modified further and all works in this repository are done in R.
+where N = S + I + R
+
